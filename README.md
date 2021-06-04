@@ -4,11 +4,11 @@
 - 💞
 - 📫
 ### Check my apps:
-  <html> <a href=https://replit.com/@pythonsv/Flatematesbill?embed=1> Click here for Flatmates Bill CLI version </a> </html>
+  <html> <a href=https://replit.com/@pythonsv/Flatematesbill?embed=1> Flatmates Bill CLI app </a> </html>
   <br>
-  <html> <a href=http://pythonsv.pythonanywhere.com/> Click here for Flatmates Bill web application </a> </html>
+  <html> <a href=http://pythonsv.pythonanywhere.com/> Flatmates Bill web app </a> </html>
   <br>
-  <html><a href=https://applications-302006.uc.r.appspot.com/> Click here for bulk emailing app</a></html>
+  <html><a href=https://applications-302006.uc.r.appspot.com/> Bulk emailing web app</a></html>
   <br>
   Check more inside my repositories
 
